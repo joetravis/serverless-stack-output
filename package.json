@@ -4,6 +4,7 @@
   "license": "MIT",
   "author": "Sebastian Müller <mail@sbstjn.com>",
   "main": "dist",
+  "version": "v0.2.3",
   "scripts": {
     "clean": "rimraf dist",
     "test": "jest",
